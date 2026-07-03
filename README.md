@@ -45,8 +45,7 @@ installed (`forge`, `cast`, `anvil`)
 ### Installation
 
 ```bash
-git clone https://github.com/Ralph-Chris/Dolphin-NFT.git
-cd ChrisToken 
+git clone https://github.com/Ralph-Chris/Dolphin-NFT.git 
 forge install openzeppelin/openzeppelin-contracts
 ```
 
