@@ -22,7 +22,8 @@ contract TestDolphin is Test {
     function testMintFunction() public {
         vm.prank(USER);
         dolphin.safeMint();
-        assert(dolphin.balanceOf(USER) == 0);
+       address owner = dolphin.ownerOf(0);
+        assertEq(owner, USER);
     }
 
     function testTokenUri() public {
