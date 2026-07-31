@@ -1,0 +1,12 @@
+{
+    "name": "DLP",
+    "description":"A dolphin who loves chilling",
+    "image":"https://gateway.pinata.cloud/ipfs/bafybeib4kbgtxx4sgudwabqzukqvxbnkeezzliiuh5bamzieqnm2ag5vpm",
+    "attributes": [
+        { 
+            "trait_type": "CHILL DOLPHIN",
+            "value": 100
+        }
+   ]
+    
+}
